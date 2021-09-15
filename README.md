@@ -38,3 +38,9 @@ $ yarn start
 
 - Card CSS - https://selfthinker.github.io/CSS-Playing-Cards/#
 - Emoji Avatar - https://gist.github.com/ikr7/c72843556ef3a12014c3
+
+## Timeline
+
+- 4~6 hours for planning & research.
+- 2~3 hours for coding the logic & algorithm. 
+- 2~3 hours for tuning the html + css.
